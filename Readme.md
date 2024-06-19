@@ -1,3 +1,3 @@
-# 第一次使用GitHub
+# HelloWorld
 this is a test on ubuntu
 
